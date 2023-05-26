@@ -55,7 +55,7 @@ h1:hover,
   cursor: pointer;
 }
 
-.card {
+main {
   display: flex;
   flex-direction: column;
   background: var(--Very-dark-blue-cardBG);
